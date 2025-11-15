@@ -3,7 +3,7 @@
     "kind": "character",
     "data": {
       "status": [
-        { "label": "HP1", "value": "16", "max": "16" },
+        { "label": "HP1", "value": "36", "max": "36" },
         { "label": "MP1", "value": "7", "max": "7" }
       ],
       "params": [
@@ -71,3 +71,4 @@
     }
   }
 ]
+
