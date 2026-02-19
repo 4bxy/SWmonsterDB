@@ -1,0 +1,410 @@
+{
+  "schema": "gachaRS-db",
+  "version": 1,
+  "count": 20,
+  "items": [
+    {
+      "id": 1,
+      "rarity": 1,
+      "name": "奈落の魔導書",
+      "cost": "2",
+      "trigger": "主動作（１手番１回まで）",
+      "check": "知力vs精神抵抗(半減)",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：2\n【発動】：主動作（１手番１回まで）\n【判定】：知力vs精神抵抗(半減)\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "奈落の魔導書",
+          "memo": "【コスト】：2\n【発動】：主動作（１手番１回まで）\n【判定】：知力vs精神抵抗(半減)\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "rarity": 1,
+      "name": "隠しナイフ",
+      "cost": "3",
+      "trigger": "主動作（１手番１回まで）",
+      "check": "器用vs回避(消滅)",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：3\n【発動】：主動作（１手番１回まで）\n【判定】：器用vs回避(消滅)\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "隠しナイフ",
+          "memo": "【コスト】：3\n【発動】：主動作（１手番１回まで）\n【判定】：器用vs回避(消滅)\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "rarity": 1,
+      "name": "ふわふわ玉",
+      "cost": "4",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：4\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "ふわふわ玉",
+          "memo": "【コスト】：4\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "rarity": 1,
+      "name": "ホーミング生肉",
+      "cost": "5",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：5\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "ホーミング生肉",
+          "memo": "【コスト】：5\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "rarity": 1,
+      "name": "ノヴァクラウン",
+      "cost": "6",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：6\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "ノヴァクラウン",
+          "memo": "【コスト】：6\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "rarity": 1,
+      "name": "マザイ",
+      "cost": "2",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：2\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "マザイ",
+          "memo": "【コスト】：2\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "rarity": 1,
+      "name": "GPT-404",
+      "cost": "3",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：3\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "GPT-404",
+          "memo": "【コスト】：3\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "rarity": 1,
+      "name": "メリケンサック",
+      "cost": "4",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：4\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "メリケンサック",
+          "memo": "【コスト】：4\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "rarity": 1,
+      "name": "黒硝子の槍",
+      "cost": "5",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：5\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "黒硝子の槍",
+          "memo": "【コスト】：5\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "rarity": 1,
+      "name": "終わりの螺旋",
+      "cost": "6",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：6\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "終わりの螺旋",
+          "memo": "【コスト】：6\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "rarity": 1,
+      "name": "蒙古タンメン中本",
+      "cost": "2",
+      "trigger": "常時",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：2\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "蒙古タンメン中本",
+          "memo": "【コスト】：2\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "rarity": 1,
+      "name": "青空レポート",
+      "cost": "3",
+      "trigger": "常時",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：3\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "青空レポート",
+          "memo": "【コスト】：3\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "rarity": 1,
+      "name": "召喚師のタクト",
+      "cost": "4",
+      "trigger": "常時",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：4\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "召喚師のタクト",
+          "memo": "【コスト】：4\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "rarity": 1,
+      "name": "黄金の夢",
+      "cost": "5",
+      "trigger": "常時",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：5\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "黄金の夢",
+          "memo": "【コスト】：5\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "rarity": 1,
+      "name": "ギョンミのページ",
+      "cost": "6",
+      "trigger": "常時",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：6\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "ギョンミのページ",
+          "memo": "【コスト】：6\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "rarity": 2,
+      "name": "TNT",
+      "cost": "7",
+      "trigger": "主動作（１手番１回まで）",
+      "check": "器用vs生命抵抗(半減)",
+      "effect": "「射程／形状：１（１０ｍ）／射撃」「対象：１エリア（半径６ｍ／２０）」の敵キャラクターに、「威力５０／Ｃ値⑩」",
+      "special": "主動作を行うたびに１ｄを振り、コストが「出目」に一時変更されるが、使用しないまま手番を終えた場合、「最大ＨＰの２ｄ割」確定ダメージ。",
+      "flavor": "オブジェクトクラス：Euclid",
+      "imageUrl": "https://storage.ccfolia-cdn.net/users%2FEl62Po17dGeHwurhzfpPVg4oNKu2%2Ffiles%2F90e81c1c7554db70a2bc49ca526ea8110e98730cbeffaeb4b3985a0b286d56d5?alt=media&token=f14be785-519a-4e5c-bd68-14816b060cec",
+      "memo": "【コスト】：7\n【発動】：主動作（１手番１回まで）\n【判定】：器用vs生命抵抗(半減)\n【効果】：「射程／形状：１（１０ｍ）／射撃」「対象：１エリア（半径６ｍ／２０）」の敵キャラクターに、「威力５０／Ｃ値⑩」\n【特殊】：主動作を行うたびに１ｄを振り、コストが「出目」に一時変更されるが、使用しないまま手番を終えた場合、「最大ＨＰの２ｄ割」確定ダメージ。\n【フレーバー文】：オブジェクトクラス：Euclid",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "TNT",
+          "memo": "【コスト】：7\n【発動】：主動作（１手番１回まで）\n【判定】：器用vs生命抵抗(半減)\n【効果】：「射程／形状：１（１０ｍ）／射撃」「対象：１エリア（半径６ｍ／２０）」の敵キャラクターに、「威力５０／Ｃ値⑩」\n【特殊】：主動作を行うたびに１ｄを振り、コストが「出目」に一時変更されるが、使用しないまま手番を終えた場合、「最大ＨＰの２ｄ割」確定ダメージ。\n【フレーバー文】：オブジェクトクラス：Euclid",
+          "iconUrl": "https://storage.ccfolia-cdn.net/users%2FEl62Po17dGeHwurhzfpPVg4oNKu2%2Ffiles%2F90e81c1c7554db70a2bc49ca526ea8110e98730cbeffaeb4b3985a0b286d56d5?alt=media&token=f14be785-519a-4e5c-bd68-14816b060cec"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "rarity": 2,
+      "name": "テラブレード",
+      "cost": "5",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：5\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "テラブレード",
+          "memo": "【コスト】：5\n【発動】：補助動作\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "rarity": 2,
+      "name": "ずんだの妖精",
+      "cost": "2",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "この手番での次の攻撃1回(物理・魔法)について、ダメージを+100%",
+      "special": "",
+      "flavor": "※進化するとずんだどんになります",
+      "imageUrl": "https://storage.ccfolia-cdn.net/users/El62Po17dGeHwurhzfpPVg4oNKu2/files/75842c487d84851d7eba76f7762719f5f689319196b707d1bc2a33ef6ac9cc21",
+      "memo": "【コスト】：2\n【発動】：補助動作\n【判定】：-\n【効果】：この手番での次の攻撃1回(物理・魔法)について、ダメージを+100%\n【フレーバー文】：※進化するとずんだどんになります",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "ずんだの妖精",
+          "memo": "【コスト】：2\n【発動】：補助動作\n【判定】：-\n【効果】：この手番での次の攻撃1回(物理・魔法)について、ダメージを+100%\n【フレーバー文】：※進化するとずんだどんになります",
+          "iconUrl": "https://storage.ccfolia-cdn.net/users/El62Po17dGeHwurhzfpPVg4oNKu2/files/75842c487d84851d7eba76f7762719f5f689319196b707d1bc2a33ef6ac9cc21"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "rarity": 2,
+      "name": "ジャスティティア",
+      "cost": "1",
+      "trigger": "常時",
+      "check": "",
+      "effect": "dummy",
+      "special": "",
+      "flavor": "dummy",
+      "imageUrl": "",
+      "memo": "【コスト】：1\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "ジャスティティア",
+          "memo": "【コスト】：1\n【発動】：常時\n【判定】：-\n【効果】：dummy\n【フレーバー文】：dummy"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "rarity": 3,
+      "name": "ホシノサクサク",
+      "cost": "3",
+      "trigger": "補助動作",
+      "check": "",
+      "effect": "この手番での次の攻撃1回(物理・魔法)について、[系統:破壊]のダメージを+200%",
+      "special": "",
+      "flavor": "「うへ～」",
+      "imageUrl": "https://storage.ccfolia-cdn.net/users/El62Po17dGeHwurhzfpPVg4oNKu2/files/9ad7342940d74b6f2113e17d8ff31787bbe38f0cc156f1240108517e531942cc",
+      "memo": "【コスト】：3\n【発動】：補助動作\n【判定】：-\n【効果】：この手番での次の攻撃1回(物理・魔法)について、[系統:破壊]のダメージを+200%\n【フレーバー文】：「うへ～」",
+      "ccfoliaPaste": {
+        "kind": "character",
+        "data": {
+          "name": "ホシノサクサク",
+          "memo": "【コスト】：3\n【発動】：補助動作\n【判定】：-\n【効果】：この手番での次の攻撃1回(物理・魔法)について、[系統:破壊]のダメージを+200%\n【フレーバー文】：「うへ～」",
+          "iconUrl": "https://storage.ccfolia-cdn.net/users/El62Po17dGeHwurhzfpPVg4oNKu2/files/9ad7342940d74b6f2113e17d8ff31787bbe38f0cc156f1240108517e531942cc"
+        }
+      }
+    }
+  ]
+}
